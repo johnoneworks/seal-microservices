@@ -34,6 +34,7 @@ Not sure though, I have met many obstacle course when trying that. XD
   - Presentation Layer
   - Business Logic Layer
   - Data Access Layer
+- Seeding of data is done, I think this should be a requirement moving forward
 
 ### Nuget Packages Used
 
