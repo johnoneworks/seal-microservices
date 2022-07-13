@@ -26,7 +26,8 @@ Not sure though, I have met many obstacle course when trying that. XD
 - .NET Core Web API
 - Demonstrates REST API, CRUD
 - Uses MongoDB as data store
-  - containerized MongoDD
+  - containerized MongoDB
+  - Catalog DB => Products Collection
 - Repository pattern
 - Use docker compose to containerize Catalog & MongoDb
 - Auto generated swagger documents
