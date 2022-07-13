@@ -4,6 +4,7 @@ using MongoDB.Driver;
 
 namespace Catalog.API.Repositories
 {
+    // This acts as the business logic layer
     public class ProductRepository : IProductRepository
     {
         private readonly ICatalogContext _context;

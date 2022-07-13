@@ -3,6 +3,7 @@ using MongoDB.Driver;
 
 namespace Catalog.API.Data
 {
+    // This acts as the data layer (the actual DB)
     public class CatalogContext : ICatalogContext
     {
         // this is .net core dependency injection
