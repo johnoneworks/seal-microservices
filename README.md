@@ -42,6 +42,14 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Swashbuckler.AspNetCore: comes preinstalled as default from MSFT, generates Swagger documents
 - Mongo.Driver: used to connect to data store
 
+### Container Commands
+
+- docker pull mongo
+- docker run -d -p 27017:27017 --name shopping-mongo mongo
+  - if you have already run this container before
+    - check with docker ps -a
+    - docker start
+
 ### Notes
 
 - paths are relative to ```src/Services/Catalog```
