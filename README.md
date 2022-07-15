@@ -8,6 +8,7 @@ Not sure though, I have met many obstacle course when trying that. XD
 
 ### Local Development
 - Docker Desktop (>2 CPU, >4GB Memory)
+  - run as admin fixes some docker-compose issues
 - Visual Studio 2022
 
 ## Notes
@@ -36,6 +37,7 @@ Not sure though, I have met many obstacle course when trying that. XD
   - Business Logic Layer
   - Data Access Layer
 - Seeding of data is done, I think this should be a requirement moving forward
+- Use docker compose to containerize the project
 
 ### Nuget Packages Used
 
