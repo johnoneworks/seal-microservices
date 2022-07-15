@@ -11,12 +11,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:5000/api/v1/Catalog",
+					"raw": "http://localhost:8000/api/v1/Catalog",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "5000",
+					"port": "8000",
 					"path": [
 						"api",
 						"v1",
@@ -32,12 +32,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:5000/api/v1/Catalog/5eca687efc6daa000110bef1",
+					"raw": "http://localhost:8000/api/v1/Catalog/5eca687efc6daa000110bef1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "5000",
+					"port": "8000",
 					"path": [
 						"api",
 						"v1",
@@ -54,12 +54,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:5000/api/v1/Catalog/GetProductByCategory/Smart Phone",
+					"raw": "http://localhost:8000/api/v1/Catalog/GetProductByCategory/Smart Phone",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "5000",
+					"port": "8000",
 					"path": [
 						"api",
 						"v1",
@@ -86,12 +86,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:5000/api/v1/Catalog",
+					"raw": "http://localhost:8000/api/v1/Catalog",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "5000",
+					"port": "8000",
 					"path": [
 						"api",
 						"v1",
