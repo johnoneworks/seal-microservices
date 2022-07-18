@@ -60,3 +60,20 @@ Not sure though, I have met many obstacle course when trying that. XD
 
 - paths are relative to ```src/Services/Catalog```
 - DB settings are placed in ```app```
+
+## Basket
+
+### Quick Summary
+
+- .NET Core Web API
+- Redis data store
+  - Distributed cache
+- REST API + CRUD
+- Repository pattern
+- Probably can map to a "running bet" service for SEAL
+
+### Nuget Packages Used
+
+- Swashbuckler.AspNetCore: comes preinstalled as default from MSFT, generates Swagger documents
+- Microsoft.Extenstions.Caching.StackExchangeRedis: communication with Redis
+- Newtonsoft.Json: parse JSON
