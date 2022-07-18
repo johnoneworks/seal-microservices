@@ -29,6 +29,7 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Uses MongoDB as data store
   - containerized MongoDB
   - Catalog DB => Products Collection
+  - use mongoclient/mongoclient docker image for GUI mongo operations
 - Repository pattern
 - Use docker compose to containerize Catalog & MongoDb
 - Auto generated swagger documents
@@ -37,7 +38,7 @@ Not sure though, I have met many obstacle course when trying that. XD
   - Business Logic Layer
   - Data Access Layer
 - Seeding of data is done, I think this should be a requirement moving forward
-- Use docker compose to containerize the project
+
 
 ### Nuget Packages Used
 
@@ -51,6 +52,9 @@ Not sure though, I have met many obstacle course when trying that. XD
   - if you have already run this container before
     - check with docker ps -a
     - docker start
+- Use docker compose to containerize the project
+  - docker-compose -f .\docker-compose.yml -f docker-compose.override.yml up -d
+  - docker-compose -f .\docker-compose.yml -f docker-compose.override.yml down
 
 ### Notes
 
