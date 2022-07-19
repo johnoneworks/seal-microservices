@@ -1,5 +1,6 @@
 # seal-microservices
 Based on https://onelab.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/
+Also based on https://github.com/dotnet-architecture/eShopOnContainers
 
 Hopefully, I try to use that and add some services that make more sense for SEAL along the way...
 Not sure though, I have met many obstacle course when trying that. XD
@@ -68,6 +69,8 @@ Not sure though, I have met many obstacle course when trying that. XD
 - .NET Core Web API
 - Redis data store
   - Distributed cache
+    - `username` is the key for the data store
+    - `basket(cart)` is the value for the data store
 - REST API + CRUD
 - Repository pattern
 - Probably can map to a "running bet" service for SEAL
