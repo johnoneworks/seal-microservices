@@ -80,3 +80,9 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Swashbuckler.AspNetCore: comes preinstalled as default from MSFT, generates Swagger documents
 - Microsoft.Extenstions.Caching.StackExchangeRedis: communication with Redis
 - Newtonsoft.Json: parse JSON
+
+## Portainer
+
+### Quick Summary
+
+- Docker managment tool
