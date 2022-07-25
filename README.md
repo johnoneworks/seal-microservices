@@ -86,3 +86,14 @@ Not sure though, I have met many obstacle course when trying that. XD
 ### Quick Summary
 
 - Docker managment tool
+  - Can't get reset password to work XD
+  - admin/admin123456
+
+## Discount
+
+### Quick Summary
+
+- PostGre data store
+- Two services
+  - API
+  - GRPC
