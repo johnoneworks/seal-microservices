@@ -94,6 +94,7 @@ Not sure though, I have met many obstacle course when trying that. XD
 ### Quick Summary
 
 - PostGre data store
+  - pgAdmin for data store GUI
 - Two services
   - API
   - GRPC
