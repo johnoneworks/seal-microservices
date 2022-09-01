@@ -98,3 +98,9 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Two services
   - API
   - GRPC
+
+#### Notes
+
+- Extension 的方式進行 PostgreSQL data seeding
+  - https://stackoverflow.com/questions/72350908/ihost-extension-in-net6
+- .net6 adding host extension is not clear to me...
