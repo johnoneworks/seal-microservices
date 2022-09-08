@@ -89,7 +89,7 @@ Not sure though, I have met many obstacle course when trying that. XD
   - Can't get reset password to work XD
   - admin/admin123456
 
-## Discount
+## Discount.API
 
 ### Quick Summary
 
@@ -104,3 +104,14 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Extension 的方式進行 PostgreSQL data seeding
   - https://stackoverflow.com/questions/72350908/ihost-extension-in-net6
 - .net6 adding host extension is not clear to me...
+
+## Discount.GRPC
+
+### Quick Summary
+
+- GRPC to communicate synchronously between microservices
+- Basket service will use this to check if the product needs to apply discount
+
+#### Notes
+
+- I am still using the .net 5 format for program and startup, since I don't know how to do host extensions on .net 6 program
