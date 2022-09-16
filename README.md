@@ -111,6 +111,9 @@ Not sure though, I have met many obstacle course when trying that. XD
 
 - GRPC to communicate synchronously between microservices
 - Basket service will use this to check if the product needs to apply discount
+- GRPC comes with its own client/server
+- Automapper
+- Basket.API will consume Discount.GRPC
 
 #### Notes
 
