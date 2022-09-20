@@ -118,3 +118,12 @@ Not sure though, I have met many obstacle course when trying that. XD
 #### Notes
 
 - I am still using the .net 5 format for program and startup, since I don't know how to do host extensions on .net 6 program
+
+## Consuming Discount.GRPC in Basket.API
+
+### Quick Summary
+
+- Consume in `UpdateBasket`
+- Adding connected service within the Basket.API project
+  - it is a GRPC "client"
+- Dapper ORM
