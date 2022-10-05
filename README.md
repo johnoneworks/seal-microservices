@@ -127,3 +127,14 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Adding connected service within the Basket.API project
   - it is a GRPC "client"
 - Dapper ORM
+
+## Order
+
+- CQRS pattern
+- DDD
+  - Domain Layer
+  - Application Layer
+  - API Layer
+  - Infrastructure Layer
+- Entity Framework
+- Clean Architecture
