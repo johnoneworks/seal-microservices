@@ -131,10 +131,15 @@ Not sure though, I have met many obstacle course when trying that. XD
 ## Order
 
 - CQRS pattern
-- DDD
+- DDD => 各是一個 project
   - Domain Layer
+    - zero dependency
   - Application Layer
-  - API Layer
+    - depend on Domain Layer
   - Infrastructure Layer
+    - depend on Application Layer
+  - API Layer
+    - depend on Application && Infrastructure Layer
+  
 - Entity Framework
 - Clean Architecture
