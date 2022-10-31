@@ -131,6 +131,7 @@ Not sure though, I have met many obstacle course when trying that. XD
 ## Order
 
 - CQRS pattern
+- Mediator pattern
 - DDD => 各是一個 project
   - Domain Layer
     - zero dependency
