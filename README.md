@@ -127,6 +127,7 @@ Not sure though, I have met many obstacle course when trying that. XD
 - Adding connected service within the Basket.API project
   - it is a GRPC "client"
 - Dapper ORM
+- Fluent Validation Nuget Package
 
 ## Order
 
